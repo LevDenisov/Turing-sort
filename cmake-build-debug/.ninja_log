@@ -1,0 +1,12 @@
+# ninja log v5
+1	76	1688696239751395447	CMakeFiles/ExternSort.dir/interface.cpp.o	cf33ea91abe6f99
+1	1847	1688696241512982583	CMakeFiles/ExternSort.dir/tape.cpp.o	3faec924c3e2ae16
+0	1983	1688696241652555109	CMakeFiles/ExternSort.dir/main.cpp.o	da5f0b96b14cfef5
+1983	2069	1688696241744417356	ExternSort	ba605ac4a17d38b6
+13	1687	1688696504474953760	CMakeFiles/ExternSort.dir/interface.cpp.o	cf33ea91abe6f99
+11	1996	1688696504788733687	CMakeFiles/ExternSort.dir/main.cpp.o	da5f0b96b14cfef5
+1997	2083	1688696504882699377	ExternSort	ba605ac4a17d38b6
+10	2090	1688696622549371188	CMakeFiles/ExternSort.dir/interface.cpp.o	cf33ea91abe6f99
+9	2228	1688696622684781777	CMakeFiles/ExternSort.dir/tape.cpp.o	3faec924c3e2ae16
+9	2516	1688696622977209327	CMakeFiles/ExternSort.dir/main.cpp.o	da5f0b96b14cfef5
+2516	2614	1688696623084496347	ExternSort	ba605ac4a17d38b6
